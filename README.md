@@ -2,9 +2,7 @@
 <h3 align="center">Hobbyist System Administrator / Developer and CS student from Algeria</h3>
 
 
-- 👨‍💻 I’m currently solving [LeetCode Problems](https://github.com/YoucefBadaoui/LeetCodeProblems) for fun
-
-- 🖥 I’m administrating my company [Virfect Solutions](https://virfect.com)
+- 👨‍💻 I’m currently solving [LeetCode Problems] for fun
 
 - 🌐 My personal website at [youcef.io](https://youcef.io)
 
